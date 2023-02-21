@@ -1,2 +1,2 @@
 conts test = "test";
-alert ("Hello !")
+alert ("Hello wordl!")
